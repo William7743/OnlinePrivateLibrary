@@ -1,0 +1,1131 @@
+<head>
+<meta charset="utf-8"><style>
+#pg-header div, #pg-footer div {
+    all: initial;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 2em;
+}
+#pg-footer div.agate {
+    font-size: 90%;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+#pg-footer li {
+    all: initial;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-indent: -0.6em;
+}
+#pg-footer div.secthead {
+    font-size: 110%;
+    font-weight: bold;
+}
+#pg-footer #project-gutenberg-license {
+    font-size: 110%;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+#pg-header-heading {
+    all: inherit;
+    text-align: center;
+    font-size: 120%;
+    font-weight:bold;
+}
+#pg-footer-heading {
+    all: inherit;
+    text-align: center;
+    font-size: 120%;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#pg-header #pg-machine-header p {
+    text-indent: -4em;
+    margin-left: 4em;
+    margin-top: 1em;
+    margin-bottom: 0;
+    font-size: medium
+}
+#pg-header #pg-header-authlist {
+    all: initial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#pg-header #pg-machine-header strong {
+    font-weight: normal;
+}
+#pg-header #pg-start-separator, #pg-footer #pg-end-separator {
+    margin-bottom: 3em;
+    margin-left: 0;
+    margin-right: auto;
+    margin-top: 2em;
+    text-align: center
+}
+
+    .xhtml_center {text-align: center; display: block;}
+    .xhtml_center table {
+        display: table;
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+        }</style><title>The Project Gutenberg EBook of A Tale of Two Cities, by Charles Dickens</title>
+<style>body {
+    margin-left: 20%;
+    margin-right: 20%;
+    background: #faebd0;
+    text-align: justify
+    }
+p {
+    text-indent: 1em;
+    margin-top: 0.25em;
+    margin-bottom: 0.25em
+    }
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%
+    }
+hr {
+    width: 50%;
+    text-align: center
+    }
+div.fig {
+    display: block;
+    margin: 0 auto;
+    text-align: center
+    }
+p.pfirst {
+    text-indent: 0
+    }
+span.dropcap {
+    float: left;
+    margin: 0 0.1em 0 0;
+    line-height: 0.8
+    }
+.no-break {
+    page-break-before: avoid
+    }
+div.chapter {
+    page-break-before: always;
+    margin-top: 4em
+    }
+p.letter {
+    text-indent: 0%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 1em;
+    margin-bottom: 1em
+    }
+a:link {
+    color: blue;
+    text-decoration: none
+    }
+a:visited {
+    color: blue;
+    text-decoration: none
+    }
+a:hover {
+    color: red
+    }</style>
+<link rel="schema.dc" href="http://purl.org/dc/elements/1.1/">
+<link rel="schema.dcterms" href="http://purl.org/dc/terms/">
+<meta name="dc.title" content="A Tale of Two Cities">
+<meta name="dc.language" content="en">
+<meta name="dcterms.source" content="https://www.gutenberg.org/files/98/98-h/98-h.htm">
+<meta name="dcterms.modified" content="2024-05-01T08:08:29.238103+00:00">
+<meta name="dc.rights" content="Public domain in the USA.">
+<link rel="dcterms.isFormatOf" href="http://www.gutenberg.org/ebooks/98">
+<meta name="dc.creator" content="Dickens, Charles, 1812-1870">
+<meta name="dc.subject" content="Historical fiction">
+<meta name="dc.subject" content="France -- History -- Revolution, 1789-1799 -- Fiction">
+<meta name="dc.subject" content="London (England) -- History -- 18th century -- Fiction">
+<meta name="dc.subject" content="War stories">
+<meta name="dc.subject" content="Executions and executioners -- Fiction">
+<meta name="dc.subject" content="French -- England -- London -- Fiction">
+<meta name="dc.subject" content="Lookalikes -- Fiction">
+<meta name="dc.subject" content="British -- France -- Paris -- Fiction">
+<meta name="dc.subject" content="Paris (France) -- History -- 1789-1799 -- Fiction">
+<meta name="dcterms.created" content="1994-01-01">
+<meta name="generator" content="Ebookmaker 0.12.42 by Project Gutenberg">
+<meta property="og:title" content="A Tale of Two Cities">
+<meta property="og:type" content="Text">
+<meta property="og:url" content="https://www.gutenberg.org/ebooks/98/pg98-images.html">
+<meta property="og:image" content="https://www.gutenberg.org/ebooks/98/pg98.cover.medium.jpg">
+<style data-id="immersive-translate-input-injected-css">.immersive-translate-input {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 2147483647;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.immersive-translate-loading-spinner {
+  vertical-align: middle !important;
+  width: 10px !important;
+  height: 10px !important;
+  display: inline-block !important;
+  margin: 0 4px !important;
+  border: 2px rgba(221, 244, 255, 0.6) solid !important;
+  border-top: 2px rgba(0, 0, 0, 0.375) solid !important;
+  border-left: 2px rgba(0, 0, 0, 0.375) solid !important;
+  border-radius: 50% !important;
+  padding: 0 !important;
+  -webkit-animation: immersive-translate-loading-animation 0.6s infinite linear !important;
+  animation: immersive-translate-loading-animation 0.6s infinite linear !important;
+}
+
+@-webkit-keyframes immersive-translate-loading-animation {
+  from {
+    -webkit-transform: rotate(0deg);
+  }
+
+  to {
+    -webkit-transform: rotate(359deg);
+  }
+}
+
+@keyframes immersive-translate-loading-animation {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+
+.immersive-translate-input-loading {
+  --loading-color: #f78fb6;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  display: block;
+  margin: 12px auto;
+  position: relative;
+  color: white;
+  left: -100px;
+  box-sizing: border-box;
+  animation: immersiveTranslateShadowRolling 1.5s linear infinite;
+}
+
+@keyframes immersiveTranslateShadowRolling {
+  0% {
+    box-shadow: 0px 0 rgba(255, 255, 255, 0), 0px 0 rgba(255, 255, 255, 0), 0px 0 rgba(255, 255, 255, 0), 0px 0 rgba(255, 255, 255, 0);
+  }
+
+  12% {
+    box-shadow: 100px 0 var(--loading-color), 0px 0 rgba(255, 255, 255, 0), 0px 0 rgba(255, 255, 255, 0), 0px 0 rgba(255, 255, 255, 0);
+  }
+
+  25% {
+    box-shadow: 110px 0 var(--loading-color), 100px 0 var(--loading-color), 0px 0 rgba(255, 255, 255, 0), 0px 0 rgba(255, 255, 255, 0);
+  }
+
+  36% {
+    box-shadow: 120px 0 var(--loading-color), 110px 0 var(--loading-color), 100px 0 var(--loading-color), 0px 0 rgba(255, 255, 255, 0);
+  }
+
+  50% {
+    box-shadow: 130px 0 var(--loading-color), 120px 0 var(--loading-color), 110px 0 var(--loading-color), 100px 0 var(--loading-color);
+  }
+
+  62% {
+    box-shadow: 200px 0 rgba(255, 255, 255, 0), 130px 0 var(--loading-color), 120px 0 var(--loading-color), 110px 0 var(--loading-color);
+  }
+
+  75% {
+    box-shadow: 200px 0 rgba(255, 255, 255, 0), 200px 0 rgba(255, 255, 255, 0), 130px 0 var(--loading-color), 120px 0 var(--loading-color);
+  }
+
+  87% {
+    box-shadow: 200px 0 rgba(255, 255, 255, 0), 200px 0 rgba(255, 255, 255, 0), 200px 0 rgba(255, 255, 255, 0), 130px 0 var(--loading-color);
+  }
+
+  100% {
+    box-shadow: 200px 0 rgba(255, 255, 255, 0), 200px 0 rgba(255, 255, 255, 0), 200px 0 rgba(255, 255, 255, 0), 200px 0 rgba(255, 255, 255, 0);
+  }
+}
+
+
+.immersive-translate-search-recomend {
+  border: 1px solid #dadce0;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+  position: relative;
+  font-size: 16px;
+}
+
+.immersive-translate-search-enhancement-en-title {
+  color: #4d5156;
+}
+
+/* dark */
+@media (prefers-color-scheme: dark) {
+  .immersive-translate-search-recomend {
+    border: 1px solid #3c4043;
+  }
+
+  .immersive-translate-close-action svg {
+    fill: #bdc1c6;
+  }
+
+  .immersive-translate-search-enhancement-en-title {
+    color: #bdc1c6;
+  }
+}
+
+
+.immersive-translate-search-settings {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  cursor: pointer;
+}
+
+.immersive-translate-search-recomend::before {
+  /* content: " "; */
+  /* width: 20px; */
+  /* height: 20px; */
+  /* top: 16px; */
+  /* position: absolute; */
+  /* background: center / contain url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAxlBMVEUAAADpTInqTIjpSofnSIfqS4nfS4XqS4nqTIjsTYnrTInqTIroS4jvQIDqTIn////+/v7rSYjpTIn8/v7uaZzrTIr9/f3wfansWJL88/b85e73qc39+/v3xNnylrvrVI/98fb62Obva5/8+fr76vH4y9zpSIj74e353Oj1ocTzm77xhK/veKbtYpjsXJTqU47oTInxjrXyh7L99fj40eH2ttH1udD3sc31ssz1rMnykLXucqPtbqD85e/1xdn2u9DzqcXrUY6FaJb8AAAADnRSTlMA34BgIM8Q37/fz7+/EGOHcVQAAAGhSURBVDjLhZPncuowEEZFTW7bXVU7xsYYTO/p7bb3f6lICIOYJOT4h7/VnFmvrBFjrF3/CR/SajBHswafctG0Qg3O8O0Xa8BZ6uw7eLjqr30SofCDVSkemMinfL1ecy20r5ygR5zz3ArcAqJExPTPKhDENEmS30Q9+yo4lEQkqVTiIEAHCT10xWERRdH0Bq0aCOPZNDV3s0xaYce1lHEoDHU8wEh3qRJypNcTAeKUIjgKMeGLDoRCLVLTVf+Ownj8Kk6H9HM6QXPgYjQSB0F00EJEu10ILQrs/QeP77BSSr0MzLOyuJJQbnUoOOIUI/A8EeJk9E4YUHUWiRyTVKGgQUB8/3e/NpdGlfI+FMQyWsCBWyz4A/ZyHXyiiz0Ne5aGZssoxRmcChw8/EFKQ5JwwkUo3FRT5yXS7q+Y/rHDZmFktzpGMvO+5QofA4FPpEmGw+EWRCFvnaof7Zhe8NuYSLR0xErKLThUSs8gnODh87ssy6438yzbLzxl012HS19vfCf3CNhnbWOL1eEsDda+gDPUvri8tSZzNFrwIZf1NmNvqC1I/t8j7nYAAAAASUVORK5CYII='); */
+}
+
+.immersive-translate-search-title {}
+
+.immersive-translate-search-title-wrapper {}
+
+.immersive-translate-search-time {
+  font-size: 12px;
+  margin: 4px 0 24px;
+  color: #70757a;
+}
+
+.immersive-translate-expand-items {
+  display: none;
+}
+
+.immersive-translate-search-more {
+  margin-top: 16px;
+  font-size: 14px;
+}
+
+.immersive-translate-modal {
+  display: none;
+  position: fixed;
+  z-index: 2147483647;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.4);
+  font-size: 15px;
+}
+
+.immersive-translate-modal-content {
+  background-color: #fefefe;
+  margin: 10% auto;
+  padding: 40px 24px 24px;
+  border: 1px solid #888;
+  border-radius: 10px;
+  width: 80%;
+  max-width: 270px;
+  font-family: system-ui, -apple-system, "Segoe UI", "Roboto", "Ubuntu",
+    "Cantarell", "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "Noto Color Emoji";
+  position: relative
+}
+
+.immersive-translate-modal .immersive-translate-modal-content-in-input {
+  max-width: 500px;
+}
+.immersive-translate-modal-content-in-input .immersive-translate-modal-body {
+  text-align: left;
+  max-height: unset;
+}
+
+.immersive-translate-modal-title {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 700;
+  color: #333333;
+}
+
+.immersive-translate-modal-body {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 400;
+  color: #333333;
+  word-break: break-all;
+  margin-top: 24px;
+}
+
+@media screen and (max-width: 768px) {
+  .immersive-translate-modal-body {
+    max-height: 250px;
+    overflow-y: auto;
+  }
+}
+
+.immersive-translate-close {
+  color: #666666;
+  position: absolute;
+  right: 16px;
+  top: 16px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.immersive-translate-close:hover,
+.immersive-translate-close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.immersive-translate-modal-footer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 24px;
+}
+
+.immersive-translate-btn {
+  width: fit-content;
+  color: #fff;
+  background-color: #ea4c89;
+  border: none;
+  font-size: 16px;
+  margin: 0 8px;
+  padding: 9px 30px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.immersive-translate-btn:hover {
+  background-color: #f082ac;
+}
+
+.immersive-translate-cancel-btn {
+  /* gray color */
+  background-color: rgb(89, 107, 120);
+}
+
+
+.immersive-translate-cancel-btn:hover {
+  background-color: hsl(205, 20%, 32%);
+}
+
+.immersive-translate-action-btn {
+  background-color: transparent;
+  color: #EA4C89;
+  border: 1px solid #EA4C89
+}
+
+.immersive-translate-btn svg {
+  margin-right: 5px;
+}
+
+.immersive-translate-link {
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-drag: none;
+  text-decoration: none;
+  color: #007bff;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, .1);
+}
+
+.immersive-translate-primary-link {
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-drag: none;
+  text-decoration: none;
+  color: #ea4c89;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, .1);
+}
+
+.immersive-translate-modal input[type="radio"] {
+  margin: 0 6px;
+  cursor: pointer;
+}
+
+.immersive-translate-modal label {
+  cursor: pointer;
+}
+
+.immersive-translate-close-action {
+  position: absolute;
+  top: 2px;
+  right: 0px;
+  cursor: pointer;
+}</style></head>
+<body><section class="pg-boilerplate pgheader" id="pg-header" lang="en"><h2 id="pg-header-heading" title="">The Project Gutenberg eBook of <span lang="en" id="pg-title-no-subtitle">A Tale of Two Cities</span></h2>
+    
+<div>This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at <a class="reference external" href="https://www.gutenberg.org">www.gutenberg.org</a>. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.</div>
+
+<div class="container" id="pg-machine-header"><p><strong>Title</strong>: A Tale of Two Cities</p>
+<div id="pg-header-authlist">
+<p><strong>Author</strong>: Charles Dickens</p>
+</div>
+<p><strong>Release date</strong>: January 1, 1994 [eBook #98]<br>
+                Most recently updated: March 27, 2021</p>
+
+<p><strong>Language</strong>: English</p>
+
+<p><strong>Credits</strong>: Judith Boss and David Widger</p>
+
+</div><div id="pg-start-separator">
+<span>*** START OF THE PROJECT GUTENBERG EBOOK A TALE OF TWO CITIES ***</span>
+</div></section><div style="margin-top:2em;margin-bottom:4em"></div>
+<h1>
+      A TALE OF TWO CITIES
+    </h1>
+<h3>
+      A STORY OF THE FRENCH REVOLUTION
+    </h3>
+<p>
+<br>
+</p>
+<h2 class="no-break">
+      By Charles Dickens
+    </h2>
+<div class="fig" style="width:60%;">
+<img alt="0403m " src="images/0403m.jpg" style="width:100%;" id="id-1518064207996274114"><br>
+</div>
+<h5>
+<a href="images/0403.jpg" style="width:100%;" id="id-2515329720431806179"><i>Original</i></a>
+</h5>
+<div class="fig" style="width:60%;">
+<img alt="0404m " src="images/0404m.jpg" style="width:100%;" id="id-4453572549997965136"><br>
+</div>
+<h5>
+<a href="images/0404.jpg" style="width:100%;" id="id-7469739290614395214"><i>Original</i></a>
+</h5>
+<p>
+<br> <br>
+</p>
+<hr>
+<h2>Contents</h2>
+<table style="">
+<tbody><tr>
+<td> <a href="#link2H_4_0001" class="pginternal"><b>Book the First—Recalled to Life</b></a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0002" class="pginternal">CHAPTER I.&nbsp;&nbsp;The Period</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0003" class="pginternal">CHAPTER II.&nbsp;&nbsp;The Mail</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0004" class="pginternal">CHAPTER III.&nbsp;&nbsp;The Night Shadows</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0005" class="pginternal">CHAPTER IV.&nbsp;&nbsp;The Preparation</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0006" class="pginternal">CHAPTER V.&nbsp;&nbsp;The Wine-shop</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0007" class="pginternal">CHAPTER VI.&nbsp;&nbsp;The Shoemaker</a><br><br></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0008" class="pginternal"><b>Book the Second—the Golden Thread</b></a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0009" class="pginternal">CHAPTER I.&nbsp;&nbsp;Five Years Later</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0010" class="pginternal">CHAPTER II.&nbsp;&nbsp;A Sight</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0011" class="pginternal">CHAPTER III.&nbsp;&nbsp;A Disappointment</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0012" class="pginternal">CHAPTER IV.&nbsp;&nbsp;Congratulatory</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0013" class="pginternal">CHAPTER V.&nbsp;&nbsp;The Jackal</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0014" class="pginternal">CHAPTER VI.&nbsp;&nbsp;Hundreds of People</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0015" class="pginternal">CHAPTER VII.&nbsp;&nbsp;Monseigneur in Town</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0016" class="pginternal">CHAPTER VIII.&nbsp;&nbsp;Monseigneur in the Country</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0017" class="pginternal">CHAPTER IX.&nbsp;&nbsp;The Gorgon’s Head</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0018" class="pginternal">CHAPTER X.&nbsp;&nbsp;Two Promises</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0019" class="pginternal">CHAPTER XI.&nbsp;&nbsp;A Companion Picture</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0020" class="pginternal">CHAPTER XII.&nbsp;&nbsp;The Fellow of Delicacy</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0021" class="pginternal">CHAPTER XIII.&nbsp;&nbsp;The Fellow of No Delicacy</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0022" class="pginternal">CHAPTER XIV.&nbsp;&nbsp;The Honest Tradesman</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0023" class="pginternal">CHAPTER XV.&nbsp;&nbsp;Knitting</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0024" class="pginternal">CHAPTER XVI.&nbsp;&nbsp;Still Knitting</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0025" class="pginternal">CHAPTER XVII.&nbsp;&nbsp;One Night</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0026" class="pginternal">CHAPTER XVIII.&nbsp;&nbsp;Nine Days</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0027" class="pginternal">CHAPTER XIX.&nbsp;&nbsp;An Opinion</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0028" class="pginternal">CHAPTER XX.&nbsp;&nbsp;A Plea</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0029" class="pginternal">CHAPTER XXI.&nbsp;&nbsp;Echoing Footsteps</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0030" class="pginternal">CHAPTER XXII.&nbsp;&nbsp;The Sea Still Rises</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0031" class="pginternal">CHAPTER XXIII.&nbsp;&nbsp;&nbsp;&nbsp;Fire Rises</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0032" class="pginternal">CHAPTER XXIV.&nbsp;&nbsp;Drawn to the Loadstone Rock</a><br><br></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0033" class="pginternal"><b>Book the Third—the Track of a Storm</b></a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0034" class="pginternal">CHAPTER I.&nbsp;&nbsp;In Secret</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0035" class="pginternal">CHAPTER II.&nbsp;&nbsp;The Grindstone</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0036" class="pginternal">CHAPTER III.&nbsp;&nbsp;The Shadow</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0037" class="pginternal">CHAPTER IV.&nbsp;&nbsp;Calm in Storm</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0038" class="pginternal">CHAPTER V.&nbsp;&nbsp;The Wood-Sawyer</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0039" class="pginternal">CHAPTER VI.&nbsp;&nbsp;Triumph</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0040" class="pginternal">CHAPTER VII.&nbsp;&nbsp;A Knock at the Door</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0041" class="pginternal">CHAPTER VIII.&nbsp;&nbsp;A Hand at Cards</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0042" class="pginternal">CHAPTER IX.&nbsp;&nbsp;The Game Made</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0043" class="pginternal">CHAPTER X.&nbsp;&nbsp;The Substance of the Shadow</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0044" class="pginternal">CHAPTER XI.&nbsp;&nbsp;Dusk</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0045" class="pginternal">CHAPTER XII.&nbsp;&nbsp;Darkness</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0046" class="pginternal">CHAPTER XIII.&nbsp;&nbsp;Fifty-two</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0047" class="pginternal">CHAPTER XIV.&nbsp;&nbsp;The Knitting Done</a></td>
+</tr>
+<tr>
+<td> <a href="#link2H_4_0048" class="pginternal">CHAPTER XV.&nbsp;&nbsp;The Footsteps Die Out For Ever</a></td>
+</tr>
+</tbody></table>
+<hr>
+<div class="chapter">
+<h2><a id="link2H_4_0001"></a>
+      Book the First—Recalled to Life
+    </h2>
+</div><!--end chapter-->
+<div class="chapter">
+<h2><a id="link2H_4_0002"></a>
+      CHAPTER I.<br>The Period
+    </h2>
+<p>
+      It was the best of times, it was the worst of times, it was the age of
+      wisdom, it was the age of foolishness, it was the epoch of belief, it was
+      the epoch of incredulity, it was the season of Light, it was the season
+      of Darkness, it was the spring of hope, it was the winter of despair, we
+      had everything before us, we had nothing before us, we were all going
+      direct to Heaven, we were all going direct the other way—in short,
+      the period was so far like the present period, that some of its noisiest
+      authorities insisted on its being received, for good or for evil, in the
+      superlative degree of comparison only.
+    </p>
+<p>
+      There were a king with a large jaw and a queen with a plain face, on the
+      throne of England; there were a king with a large jaw and a queen with a
+      fair face, on the throne of France. In both countries it was clearer than
+      crystal to the lords of the State preserves of loaves and fishes, that
+      things in general were settled for ever.
+    </p>
+<p>
+      It was the year of Our Lord one thousand seven hundred and seventy-five.
+      Spiritual revelations were conceded to England at that favoured period, as
+      at this. Mrs. Southcott had recently attained her five-and-twentieth
+      blessed birthday, of whom a prophetic private in the Life Guards had
+      heralded the sublime appearance by announcing that arrangements were made
+      for the swallowing up of London and Westminster. Even the Cock-lane ghost
+      had been laid only a round dozen of years, after rapping out its messages,
+      as the spirits of this very year last past (supernaturally deficient in
+      originality) rapped out theirs. Mere messages in the earthly order of
+      events had lately come to the English Crown and People, from a congress of
+      British subjects in America: which, strange to relate, have proved more
+      important to the human race than any communications yet received through
+      any of the chickens of the Cock-lane brood.
+    </p>
+<p>
+      France, less favoured on the whole as to matters spiritual than her sister
+      of the shield and trident, rolled with exceeding smoothness down hill,
+      making paper money and spending it. Under the guidance of her Christian
+      pastors, she entertained herself, besides, with such humane achievements
+      as sentencing a youth to have his hands cut off, his tongue torn out with
+      pincers, and his body burned alive, because he had not kneeled down in the
+      rain to do honour to a dirty procession of monks which passed within his
+      view, at a distance of some fifty or sixty yards. It is likely enough
+      that, rooted in the woods of France and Norway, there were growing trees,
+      when that sufferer was put to death, already marked by the Woodman, Fate,
+      to come down and be sawn into boards, to make a certain movable framework
+      with a sack and a knife in it, terrible in history. It is likely enough
+      that in the rough outhouses of some tillers of the heavy lands adjacent to
+      Paris, there were sheltered from the weather that very day, rude carts,
+      bespattered with rustic mire, snuffed about by pigs, and roosted in by
+      poultry, which the Farmer, Death, had already set apart to be his tumbrils
+      of the Revolution. But that Woodman and that Farmer, though they work
+      unceasingly, work silently, and no one heard them as they went about with
+      muffled tread: the rather, forasmuch as to entertain any suspicion that
+      they were awake, was to be atheistical and traitorous.
+    </p>
+<p>
+      In England, there was scarcely an amount of order and protection to
+      justify much national boasting. Daring burglaries by armed men, and
+      highway robberies, took place in the capital itself every night; families
+      were publicly cautioned not to go out of town without removing their
+      furniture to upholsterers’ warehouses for security; the highwayman in the
+      dark was a City tradesman in the light, and, being recognised and
+      challenged by his fellow-tradesman whom he stopped in his character of
+      “the Captain,” gallantly shot him through the head and rode away; the mail
+      was waylaid by seven robbers, and the guard shot three dead, and then got
+      shot dead himself by the other four, “in consequence of the failure of his
+      ammunition:” after which the mail was robbed in peace; that magnificent
+      potentate, the Lord Mayor of London, was made to stand and deliver on
+      Turnham Green, by one highwayman, who despoiled the illustrious creature
+      in sight of all his retinue; prisoners in London gaols fought battles with
+      their turnkeys, and the majesty of the law fired blunderbusses in among
+      them, loaded with rounds of shot and ball; thieves snipped off diamond
+      crosses from the necks of noble lords at Court drawing-rooms; musketeers
+      went into St. Giles’s, to search for contraband goods, and the mob fired
+      on the musketeers, and the musketeers fired on the mob, and nobody thought
+      any of these occurrences much out of the common way. In the midst of them,
+      the hangman, ever busy and ever worse than useless, was in constant
+      requisition; now, stringing up long rows of miscellaneous criminals; now,
+      hanging a housebreaker on Saturday who had been taken on Tuesday; now,
+      burning people in the hand at Newgate by the dozen, and now burning
+      pamphlets at the door of Westminster Hall; to-day, taking the life of an
+      atrocious murderer, and to-morrow of a wretched pilferer who had robbed a
+      farmer’s boy of sixpence.
+    </p><p>
+      “It is a far, far better thing that I do, than I have ever done; it is a
+      far, far better rest that I go to than I have ever known.”
+     </p>
+</div><!--end chapter-->
+<div style="display:block;margin-top:4em"></div><section class="pg-boilerplate pgheader" id="pg-footer" lang="en">
+<div id="pg-end-separator">
+<span>*** END OF THE PROJECT GUTENBERG EBOOK A TALE OF TWO CITIES ***</span>
+</div>
+
+    
+<div>
+Updated editions will replace the previous one—the old editions will
+be renamed.
+</div><div>
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+</div>
+
+<div id="project-gutenberg-license">START: FULL LICENSE</div>
+
+<h2 id="pg-footer-heading">THE FULL PROJECT GUTENBERG LICENSE</h2>
+
+<div class="agate">PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+</div><div>
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+</div><div class="secthead">
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+</div><div>
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+</div><div>
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+</div><div>
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+</div><div>
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+</div><div>
+1.E. Unless you have removed all references to Project Gutenberg:
+</div><div>
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+</div><blockquote><div>
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at <a href="https://www.gutenberg.org">www.gutenberg.org</a>. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  </div></blockquote><div>
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+</div><div>
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+</div><div>
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+</div><div>
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+</div><div>
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+</div><div>
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+</div><div>
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+</div><ul>
+    <li>• You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    </li>
+    <li>• You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    </li>
+    <li>• You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    </li>
+    <li>• You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    </li>
+</ul><div>
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+</div><div>
+1.F.
+</div><div>
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+</div><div>
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+</div><div>
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+</div><div>
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+</div><div>
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+</div><div>
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+</div><div class="secthead">
+Section 2. Information about the Mission of Project Gutenberg™
+</div><div>
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+</div><div>
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+</div><div class="secthead">
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+</div><div>
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+</div><div>
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+</div><div class="secthead">
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+</div><div>
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+</div><div>
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit <a href="https://www.gutenberg.org/donate/">www.gutenberg.org/donate</a>.
+</div><div>
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+</div><div>
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+</div><div>
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+</div><div class="secthead">
+Section 5. General Information About Project Gutenberg™ electronic works
+</div><div>
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+</div><div>
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+</div><div>
+Most people start at our website which has the main PG search
+facility: <a href="https://www.gutenberg.org">www.gutenberg.org</a>.
+</div><div>
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+</div>
+
+</section>
+
+</body>
